@@ -1,1 +1,11 @@
-# js_ru_23_09_21_30
+App with test features:
+- component
+- decorator, mixin
+- flux, redux, store
+- immutable data
+- router
+- etc
+
+Based on:
+- javascript.ru/react
+- javascript.ninja/kottans.org
